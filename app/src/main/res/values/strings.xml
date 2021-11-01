@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Attendance Tracker</string>
+    <string name="hint_student">Enter Student Name</string>
+    <string name="button_add">Add</string>
+    <string name="empty_not_saved">Student not saved because name is empty.</string>
+    <string name="add_student">Add student</string>
+    <string name="button_save">Save</string>
+</resources>
